@@ -10,7 +10,7 @@ import ProjectsPage from './project/projectsPage/ProjectsPage';
 
 
 
-const App = () =>{
+const App = () => {
   return (
     <div className="appContent">
       <HeaderNav />
@@ -18,25 +18,25 @@ const App = () =>{
         <Routes>
 
           <Route path='/profile' 
-            element ={
+            element = {
               <BlogPage/>
             } 
           /> 
 
-          <Route path='/profile' 
-            element ={
+          <Route path='/about' 
+            element = {
               <AboutPage/>
             } 
           /> 
 
           <Route path='/dialogs' 
-            element ={
+            element = {
               <ProjectsPage/>
             } 
           /> 
 
           <Route path='/dialogs' 
-            element ={
+            element = {
               <CabinetPage/>
             } 
           /> 
