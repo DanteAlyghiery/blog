@@ -14,6 +14,24 @@ const AboutPage = () => {
                 ullam odio, culpa natus voluptate atque dolorum possimus?
                 Perferendis praesentium dolore illum consequuntur optio eum
                 voluptate.
+
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Blanditiis reprehenderit, dignissimos fuga libero veritatis
+                ullam odio, culpa natus voluptate atque dolorum possimus?
+                Perferendis praesentium dolore illum consequuntur optio eum
+                voluptate.
+
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Blanditiis reprehenderit, dignissimos fuga libero veritatis
+                ullam odio, culpa natus voluptate atque dolorum possimus?
+                Perferendis praesentium dolore illum consequuntur optio eum
+                voluptate.
+
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Blanditiis reprehenderit, dignissimos fuga libero veritatis
+                ullam odio, culpa natus voluptate atque dolorum possimus?
+                Perferendis praesentium dolore illum consequuntur optio eum
+                voluptate.
             </div>
         </div>
     )

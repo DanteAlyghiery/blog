@@ -17,7 +17,7 @@ const App = () => {
       <div className ="appContent__change">
         <Routes>
 
-          <Route path='/profile' 
+          <Route path='/blog' 
             element = {
               <BlogPage/>
             } 
@@ -29,13 +29,13 @@ const App = () => {
             } 
           /> 
 
-          <Route path='/dialogs' 
+          <Route path='/projects' 
             element = {
               <ProjectsPage/>
             } 
           /> 
 
-          <Route path='/dialogs' 
+          <Route path='/cabinet' 
             element = {
               <CabinetPage/>
             } 

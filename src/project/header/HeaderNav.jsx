@@ -35,7 +35,7 @@ const HeaderNav = () => {
                         </div> 
                     </NavLink>
             
-                    <NavLink to="/Cabinet">
+                    <NavLink to="/cabinet">
                         <div className={c.navMenuLinks} > 
                             Cabinet
                         </div> 
