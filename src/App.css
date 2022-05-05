@@ -2,3 +2,6 @@
   text-align: center;
 }
 
+.appContent__change {
+  background-image: url(./project/files/heroOne.jpeg);
+}

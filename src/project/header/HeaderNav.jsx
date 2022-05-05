@@ -2,6 +2,7 @@ import { NavLink } from 'react-router-dom'
 import c from './HeaderNav.module.css'
 import logoImg from '../files/logoBlog.svg'
 import HeaderHero from './headerHero/HeaderHero'
+import MainPage from '../mainPage/MainPage'
 
 const HeaderNav = () => {
     return (
@@ -46,6 +47,10 @@ const HeaderNav = () => {
 
             <div className={c.hero}>
                 <HeaderHero />
+            </div>
+
+            <div className={c.body}>
+                <MainPage/>
             </div>
         </div>
     )
